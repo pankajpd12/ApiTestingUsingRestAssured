@@ -18,7 +18,7 @@ public class ParsingJSONResponseData {
 	void testJsonResponse() {
 		
 		// Approach 1
-		
+	
 	/*	given().
 		contentType(ContentType.JSON).
 		
