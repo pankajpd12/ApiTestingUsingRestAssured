@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-03-02T20:47:18 IST" name="Default suite" finished-at="2023-03-02T20:47:19 IST" duration-ms="1292">
+  <suite started-at="2023-03-05T11:52:02 IST" name="Default suite" finished-at="2023-03-05T11:52:05 IST" duration-ms="2468">
     <groups>
     </groups>
-    <test started-at="2023-03-02T20:47:18 IST" name="Default test" finished-at="2023-03-02T20:47:19 IST" duration-ms="1292">
-      <class name="Day4.ParsingJSONResponseData">
-        <test-method signature="testJsonResponseBodyData()[pri:2, instance:Day4.ParsingJSONResponseData@3d6f0054]" started-at="2023-03-02T20:47:18 IST" name="testJsonResponseBodyData" finished-at="2023-03-02T20:47:19 IST" duration-ms="1248" status="PASS">
+    <test started-at="2023-03-05T11:52:02 IST" name="Default test" finished-at="2023-03-05T11:52:05 IST" duration-ms="2468">
+      <class name="Day5.ParsingXMLResponse">
+        <test-method signature="testXMLResponseBody()[pri:0, instance:Day5.ParsingXMLResponse@156b88f5]" started-at="2023-03-05T11:52:02 IST" name="testXMLResponseBody" finished-at="2023-03-05T11:52:05 IST" duration-ms="2400" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testJsonResponseBodyData -->
-      </class> <!-- Day4.ParsingJSONResponseData -->
+        </test-method> <!-- testXMLResponseBody -->
+      </class> <!-- Day5.ParsingXMLResponse -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
